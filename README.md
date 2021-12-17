@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HopeCoding
 - 👋 Merhaba, Ben @HopeCoding
 
-- 👀 I’m interested in AI in the phone=NEW FUTURE...
-- 👀 Telefonda yapay zeka ile ilgileniyorum=YENİ GELECEK.
+- 👀 I am interested in studies in the field of Mobile Application.
+- 👀 Mobil Uygulama alanındaki çalışmalarla ilgileniyorum.
 
 - 🌱 I’m currently learning JAVA,KOTLİN...
 - 🌱 Şu anda JAVA,KOTLİN öğreniyorum...
